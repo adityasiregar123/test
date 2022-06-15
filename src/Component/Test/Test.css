@@ -1,0 +1,27 @@
+.header {
+    padding: 0px;
+}
+.content {
+    min-height: 450px;
+}
+.sider {
+    background-color: white;
+    border-right: 0.5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: #1f93ff49;
+}
+.footer {
+    background-color: white;
+}
+
+.breadcrumb {
+    margin: 10px;
+}
+
+.charts {
+    width: 100vh;
+    display: grid;
+}
